@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pyrender3d"
+name = "turtle-cubed"
 description = "Simple 3D renderer in Python using turtle."
 version = "1.0.0"
 authors = [
