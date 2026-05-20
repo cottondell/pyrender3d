@@ -15,8 +15,8 @@ https://docs.python.org/3/library/venv.html
 
 ## Usage
 - `import turtle-cubed`
-- Figure it out (didn't have enough time :D)
-- I guess there's a bit of info in `syntax.txt`
+- Check out [usage.md](./usage.md) for some usage info
+- I will add in-line documentation at some point :D
 
 ## Demos
 There are a couple demos you can run by executing the package as a module (after installing):
